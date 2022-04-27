@@ -25,6 +25,7 @@ Sending Confirmation on complete of the order
 
 git clone https://github.com/Jelhill/bitfinexServer.git
 ```
+npm install
 npm i -g grenache-grape
 ```
 
