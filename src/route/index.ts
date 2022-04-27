@@ -8,10 +8,6 @@ route.get("/", (req, res) => {
     res.json("Welcome")
 })
 
-route.get("/offers", 
-    (req: express.Request, res: express.Response) => {
-})
-
 
 
 export default route;
